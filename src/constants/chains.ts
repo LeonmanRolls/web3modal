@@ -181,6 +181,12 @@ export const CHAIN_DATA_LIST: ChainDataList = {
     network: "freight",
     networkId: 0
   },
+  246: {
+    chainId: 246,
+    chain: "EWC",
+    network: "ewc",
+    networkId: 246
+  },
   269: {
     chainId: 269,
     chain: "HPB",
@@ -210,6 +216,12 @@ export const CHAIN_DATA_LIST: ChainDataList = {
     chain: "MATIC",
     network: "matic",
     networkId: 137
+  },
+  73799: {
+    chainId: 73799,
+    chain: "VOLTA",
+    network: "volta",
+    networkId: 73799
   },
   80001: {
     chainId: 80001,
